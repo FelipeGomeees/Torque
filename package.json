@@ -1,0 +1,16 @@
+{
+  "name": "torque",
+  "version": "1.0.0",
+  "description": "Minimalist Physics Engine",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
